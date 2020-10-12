@@ -45,7 +45,6 @@ tests/_support/_generated
 /web/sitemap.xml
 /web/sitemap*.xml
 
-prepros.cfg
 prepros-6.config
 /gulpfile.js
 /package.json
